@@ -38,6 +38,8 @@ if password:
     else:
         feedback.append("🟡your password is weak. please make it stronger.")
         
+st.write("Uncomplete code")
+        
 
 
         
